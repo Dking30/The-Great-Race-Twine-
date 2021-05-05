@@ -1,2 +1,2 @@
-# The-Great-Race-Twine-
+# The GreatRace
 Project 3
