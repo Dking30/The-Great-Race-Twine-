@@ -1,2 +1,2 @@
-# The GreatRace
+# TheGreatRace
 Project 3
